@@ -3,7 +3,7 @@ $PgID = "A0201";
 $Local="System02";
  include "../connect_db.php";
 $LocalFile="A2System01";
-//test only
+//test onlygit 
 
 CheckLog($_SESSION["Manager"],$PgID);
 
